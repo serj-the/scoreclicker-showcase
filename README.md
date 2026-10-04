@@ -41,7 +41,7 @@ The custom intro was created using a Fraunhofer diffraction simulation — bring
 
 ## My role
 
-Personal project by **Sergey Khlopow**: product development, visual direction, motion work and implementation with AI coding assistance. I use the project to connect visual design with working software and test it on real devices.
+Personal project by **Sergei Khlopov**: product development, visual direction, motion work and implementation with AI coding assistance. I use the project to connect visual design with working software and test it on real devices.
 
 **Stack:** Swift, SwiftUI, WatchConnectivity, AVFoundation and CoreMotion.
 
