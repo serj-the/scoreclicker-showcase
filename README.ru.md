@@ -30,7 +30,9 @@
 
 
 
-![Procedural diffraction intro](assets/diffraction-intro.gif)
+[![Procedural diffraction intro — watch video](assets/diffraction-intro.jpg)](assets/diffraction-intro.mp4)
+
+[▶ Смотреть интро (MP4)](assets/diffraction-intro.mp4)
 
 ## Мой вклад
 
