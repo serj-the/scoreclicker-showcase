@@ -39,9 +39,9 @@ The custom intro was created using a Fraunhofer diffraction simulation — bring
 
 
 
-[![Procedural diffraction intro — watch video](assets/diffraction-intro.jpg)](assets/diffraction-intro.mp4)
+![Procedural diffraction intro](assets/diffraction-intro.gif)
 
-[▶ Watch intro (MP4)](assets/diffraction-intro.mp4)
+[Download intro (MP4)](assets/diffraction-intro.mp4)
 
 ## My role
 
