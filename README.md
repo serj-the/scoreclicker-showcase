@@ -16,7 +16,7 @@ A personal tennis scorekeeping app for iPhone and Apple Watch.
 ScoreClicker keeps track of points, games and sets, with a large colour-coded scoreboard and spoken score announcements. The watch puts scoring on your wrist; the phone provides a larger match view and settings.
 
 <div align="center">
-<img src="assets/iphone-score_2.png" width="680" alt="ScoreClicker tennis scoreboard on iPhone">
+<img src="assets/iphone-score_2.png" width="720" alt="ScoreClicker tennis scoreboard on iPhone">
 &nbsp;&nbsp;&nbsp;
 <img src="assets/watch-score.png" width="230" alt="ScoreClicker tennis scoreboard on Apple Watch">
 </div>
