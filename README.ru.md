@@ -7,7 +7,7 @@
 [English](README.md)
 
 <div align="center">
-<img src="assets/iphone-score.png" width="680" alt="Теннисное табло на iPhone">
+<img src="assets/iphone-score_2.png" width="680" alt="Теннисное табло на iPhone">
 &nbsp;&nbsp;&nbsp;
 <img src="assets/watch-score.png" width="230" alt="Теннисное табло на Apple Watch">
 </div>
